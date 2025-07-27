@@ -4,5 +4,6 @@
 
 # SDLC Certification
 
-# git certification
-![GIT AND GITHUB](<"C:\Users\prasanna\Desktop\arungokul\5512054_Arungokul\gitandgithub\Screenshot 2025-07-27 235958.png">)
+# GIt certification
+![git](<Screenshot 2025-07-27 235958.png>)
+
